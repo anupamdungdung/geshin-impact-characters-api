@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@600&display=swap");
+img .genshinlogo {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+
+.container-fluid {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.btn .btn-outline-success {
+  color: aqua;
+}
+
+.navbar-brand {
+  font-family: 'Vollkorn', serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+.row {
+  margin: 10px;
+}
+/*# sourceMappingURL=style.css.map */
